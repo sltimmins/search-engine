@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="search_engine_timmins_leong"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine_timmins_leong">
+				<Option output="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/search_engine_timmins_leong" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/."/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson"/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/error"/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal"/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/msinttypes"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine_timmins_leong"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine_timmins_leong/fast">
+				<Option output="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/search_engine_timmins_leong" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/."/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson"/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/error"/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal"/>
+					<Add directory="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/msinttypes"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine_timmins_leong/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/DSHashTable.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/DSHashTableTests.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/DSTree.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Index.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Index.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/IndexHandler.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/IndexHandler.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Metadata.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Metadata.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/QueryHandler.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/QueryHandler.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Runner.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Runner.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Title.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Title.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/TreeTest.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Word.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/Word.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/catch.hpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/main.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/metadata-cs2341.csv">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/persistence.json">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/porter2_stemmer.cpp">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/porter2_stemmer.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidcsv.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/allocators.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/cursorstreamwrapper.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/document.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/encodedstream.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/encodings.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/error/en.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/error/error.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/filereadstream.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/filewritestream.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/fwd.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/biginteger.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/clzll.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/diyfp.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/dtoa.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/ieee754.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/itoa.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/meta.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/pow10.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/regex.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/stack.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/strfunc.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/strtod.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/internal/swap.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/istreamwrapper.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/memorybuffer.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/memorystream.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/msinttypes/inttypes.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/msinttypes/stdint.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/ostreamwrapper.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/pointer.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/prettywriter.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/rapidjson.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/reader.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/schema.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/stream.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/stringbuffer.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/rapidjson/writer.h">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/stopwords.txt">
+			<Option target="search_engine_timmins_leong"/>
+		</Unit>
+		<Unit filename="/Users/stimmins/Documents/GitHub/search-engine-timmins-leong/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
